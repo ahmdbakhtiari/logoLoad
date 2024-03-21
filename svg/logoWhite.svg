@@ -1,0 +1,25 @@
+<svg width="275" height="50" viewBox="0 0 275 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="3.48042" width="6" height="42" fill="black"/>
+<rect y="3.48042" width="27" height="6" fill="black"/>
+<rect y="39.4804" width="27" height="6" fill="black"/>
+<rect y="21.4804" width="24" height="6" fill="black"/>
+<path d="M32 3.48042H62.5L59 9.48042H32V3.48042Z" fill="black"/>
+<path d="M36 43.4804L57.5 5.48043" stroke="black" stroke-width="6.5"/>
+<path d="M34.5 39.4804H63V45.4804H31L34.5 39.4804Z" fill="black"/>
+<path d="M72 7.48042H100V27.4804C100 35.2124 93.732 41.4804 86 41.4804C78.268 41.4804 72 35.2124 72 27.4804V7.48042Z" stroke="black" stroke-width="6"/>
+<path d="M132 7.48042H160V27.4804C160 35.2124 153.732 41.4804 146 41.4804C138.268 41.4804 132 35.2124 132 27.4804V7.48042Z" stroke="black" stroke-width="6"/>
+<rect x="112" y="3.48042" width="7" height="41" fill="black"/>
+<path d="M197.476 3.96349L205.031 3.98331L175.529 44.4551L167.613 44.4344L197.476 3.96349Z" fill="black"/>
+<path d="M174.409 4.81346L166.714 4.60894L198.36 45.5117L206 45.7071L174.409 4.81346Z" fill="black"/>
+<rect x="233" y="4.48042" width="7.05263" height="34.2105" stroke="black" stroke-width="2"/>
+<rect x="239.789" y="4.48042" width="7.05263" height="27.4211" stroke="black" stroke-width="2"/>
+<rect x="246.579" y="4.48042" width="7.05263" height="20.6316" stroke="black" stroke-width="2"/>
+<rect x="253.368" y="4.48042" width="7.05263" height="13.8421" stroke="black" stroke-width="2"/>
+<path d="M274 11.2699L274 18.3225L260.158 18.3225L260.158 11.2699L274 11.2699Z" stroke="black" stroke-width="2"/>
+<rect x="274" y="18.0594" width="7.05263" height="20.6316" transform="rotate(90 274 18.0594)" stroke="black" stroke-width="2"/>
+<path d="M274 24.8488L274 31.9015L246.579 31.9015L246.579 24.8488L274 24.8488Z" stroke="black" stroke-width="2"/>
+<rect x="274" y="31.6383" width="7.05263" height="34.2105" transform="rotate(90 274 31.6383)" stroke="black" stroke-width="2"/>
+<rect x="274" y="38.4278" width="7.05263" height="41" transform="rotate(90 274 38.4278)" stroke="black" stroke-width="2"/>
+<rect x="260.158" y="4.48042" width="7.05263" height="7.05263" stroke="black" stroke-width="2"/>
+<rect x="266.947" y="4.48042" width="7.05263" height="7.05263" stroke="black" stroke-width="2"/>
+</svg>
